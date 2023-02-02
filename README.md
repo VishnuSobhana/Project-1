@@ -1,6 +1,6 @@
 
 # Quiz Game 
-The Simple Quiz Game(Formula 1 Edition) was built using HTML,CSS & JavaScript programming language. This is a user-friendly kind of application that is free to be modified. The application contains a basic function that display the questionnaire that can be answered by the user. The quiz is consist of 7 questions. For each correct answer you will be given a points in easy you will only receive 1 point. The questions are all about Formula 1 racing. Get all the answer correctly and beat all the high scorer.
+The Simple Quiz Game(Formula 1 Edition) was built using HTML,CSS & JavaScript programming language. This is a user-friendly kind of application that is free to be modified. The application contains a basic function that display the questionnaire that can be answered by the user. The quiz is consist of 7 questions. For each correct answer you will get 1 point. The questions are all about Formula 1 racing. Get all the answer correctly and beat all the high scorer.
 
 ## Features
 - Live Preview

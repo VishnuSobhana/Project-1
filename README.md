@@ -29,7 +29,7 @@ npm run dev
 Contact
 Vishnu Sreekumar - svishnu987@email.com
 
-Project Link:https://github.com/VishnuSobhana/Project-1
+Project Link:https://vishnusobhana.github.io/Project-1/
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
